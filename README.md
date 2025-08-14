@@ -1,7 +1,17 @@
-**Job Salary Prediction Using Neural Networks and Model Comparisons**  
+# Job Salary Prediction Using Neural Networks and Model Comparisons
  Worked with a Kaggle dataset containing demographic, experience, and job title information to predict salaries, requiring preprocessing of both structured and unstructured data.  
- Built and evaluated predictive models, including a PyTorch-based neural network, to determine factors influencing salary and assessed the most effective approach.   
- 
+ Built and evaluated predictive models, including a PyTorch-based neural network, to determine factors influencing salary and assessed the most effective approach. 
+# Images
+<img src="Age-years-phd-salary.png" alt="ageyearphd" width="200">
+<img src="Correlation-Salary.png" alt="salary-corr" width="200">
+<img src="Predicted-Actual-Tree.png" alt="tree-pred" width="200">
+<img src="Salary-Education.png" alt="sal-ed" width="200">
+<img src="Salary-Gender-Education.png" alt="sal-gender-ed" width="200">
+<img src="predicted-actual-NN.png" alt="NN-pred" width="200">
+<img src="years-salary.png" alt="year-sal" width="200">
+
+
+# Summary
 - Cleaned and standardized data, removing nulls and harmonizing inconsistent categorical entries.  
 - Engineered features from job titles using TF-IDF vectorization and one-hot encoded categorical fields.  
 - Conducted exploratory data analysis, revealing correlations between education, gender, experience, and salary.  
